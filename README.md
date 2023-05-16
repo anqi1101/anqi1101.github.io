@@ -28,3 +28,4 @@ Hello 大家好。我是安琪，这里是关于马拉松赛事报名的详细�
 4.组委会在赛道沿途每2.5公里设置医疗服务点及安排医疗服务志愿者，维护比赛秩序并协助救护，参赛选手可以随时求助。
 
 **注：您若以阅读并知晓以上事项请点击下面的链接进入报名页面**
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
